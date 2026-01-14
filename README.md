@@ -6,7 +6,7 @@ This project demonstrates how AI can bring transparency, verification, and secur
 
 📸 Sample Analysis Screenshot
 
-(Add your dataset visualization, confusion matrix, or model output image 
+(Add your dataset visualization, 
 ![Fake Vote Detection Output](analysis.jpg)
 
 📜 Project Description
