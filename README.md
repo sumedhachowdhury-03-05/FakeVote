@@ -4,11 +4,6 @@ A machine-learning powered system designed to detect fake, duplicate, or suspici
 
 This project demonstrates how AI can bring transparency, verification, and security to digital voting platforms — ensuring fair results without manual intervention.
 
-📸 Sample Analysis Screenshot
-
-
-![Fake Vote Detection Output]
-
 📜 Project Description
 
 The Fake Vote Recognition System analyzes incoming votes based on IP activity, device patterns, timestamp behavior, and other engineered features to determine whether a vote is legitimate or fraudulent.
