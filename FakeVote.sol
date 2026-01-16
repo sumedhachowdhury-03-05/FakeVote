@@ -2,7 +2,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-
 /*
  * FakeVoteDetection - Demo smart contract for storing votes 
  * with simple on-chain duplicate/fake detection rules.
